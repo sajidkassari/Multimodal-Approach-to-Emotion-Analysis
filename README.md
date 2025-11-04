@@ -1,7 +1,6 @@
 # 🎙️ Multimodal Approach to Emotion Analysis using Audio & Text  
 *A Deep Learning Approach for Human Emotion Detection from Speech and Language*
 
----
 
 ## 🧠 Overview
 This project presents a **robust multimodal emotion recognition system** that analyzes both **audio (speech)** and **text (transcribed content)** to classify human emotions.  
@@ -9,13 +8,13 @@ It combines **acoustic**, **linguistic**, and **contextual** features to achieve
 
 The system is implemented with **PyTorch**, **Transformers**, and **Streamlit**, and can perform real-time emotion prediction from microphone input or uploaded audio files.
 
----
+
 
 ## 🔍 Problem Statement
 Traditional emotion recognition systems often rely on a **single modality** — either speech or text — leading to limited accuracy and contextual understanding.  
 This project overcomes that limitation by combining both modalities, allowing the model to understand **what** is being said (text) and **how** it’s being said (audio tone and pitch).  
 
----
+
 
 ## 🎯 Objectives
 - Build separate deep learning models for **speech-based** and **text-based** emotion recognition.  
@@ -23,7 +22,7 @@ This project overcomes that limitation by combining both modalities, allowing th
 - Develop a **Streamlit-based interface** for real-time emotion prediction and visualization.  
 - Achieve **high generalization accuracy** across multiple emotional categories.
 
----
+
 
 ## Concluded Architecture after experimenting with 6 different architectures such as:
 - BERT
@@ -54,7 +53,7 @@ This project overcomes that limitation by combining both modalities, allowing th
 - Weights determined by validation performance (e.g., 0.51 for audio, 0.49 for text)
 - Final prediction is made based on maximum combined probability.
 
----
+
 
 ## 📊 Results Summary
 | Model Type | Architecture | Accuracy | Key Feature |
@@ -63,7 +62,7 @@ This project overcomes that limitation by combining both modalities, allowing th
 | Text Model  | DistilBERT (Fine-tuned) | **92%** | Understands context and sentiment |
 | Fusion Model | Weighted Late Fusion | **94–96%** | Combines best of both worlds |
 
----
+
 
 ## 🎬 Live Demo (Streamlit)
 The Streamlit interface provides:  
