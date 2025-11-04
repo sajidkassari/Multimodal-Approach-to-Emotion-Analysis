@@ -22,7 +22,12 @@ This project overcomes that limitation by combining both modalities, allowing th
 - Develop a **Streamlit-based interface** for real-time emotion prediction and visualization.  
 - Achieve **high generalization accuracy** across multiple emotional categories.
 
-
+- **Datasets Used:**
+  - 🎧 **RAVDESS** – Ryerson Audio-Visual Database of Emotional Speech and Song  
+  - 🎭 **CREMA-D** – Crowd-sourced Emotional Multimodal Actors Dataset  
+  - 🎤 **SAVEE** – Surrey Audio-Visual Expressed Emotion Dataset  
+  - 🎶 **TESS** – Toronto Emotional Speech Set
+  - GoEmotions: 58k human-labeled Reddit comments (27 emotion labels).
 
 ## Concluded Architecture after experimenting with 6 different architectures such as:
 - BERT
