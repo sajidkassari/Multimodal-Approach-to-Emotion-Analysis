@@ -28,7 +28,10 @@ This project overcomes that limitation by combining both modalities, allowing th
 - BERT
 - CNN-BiLSTM- Attention Model
 - LSTM
-- 
+- CNN-LSTM-Attention Model
+- CNN-LSTM
+- DistilBERT
+- RoBERTa
 
 ## ⚙️ System Architecture
 ### 1️⃣ **Audio Model (Speech Emotion Recognition)**
@@ -62,6 +65,7 @@ This project overcomes that limitation by combining both modalities, allowing th
 | Text Model  | DistilBERT (Fine-tuned) | **92%** | Understands context and sentiment |
 | Fusion Model | Weighted Late Fusion | **94–96%** | Combines best of both worlds |
 
+<img width="1198" height="668" alt="image" src="https://github.com/user-attachments/assets/2a78e10d-90ac-4a5f-801f-2689711d118c" />
 
 
 ## 🎬 Live Demo (Streamlit)
