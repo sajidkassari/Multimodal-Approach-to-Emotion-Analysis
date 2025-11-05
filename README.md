@@ -80,6 +80,12 @@ The Streamlit interface provides:
 ✅ Transcription-based emotion inference  
 ✅ Visualization of confidence scores using bar graphs  
 
+<img width="1396" height="777" alt="image" src="https://github.com/user-attachments/assets/e00a9237-b2bf-4c61-b645-443c62601b09" />
+
+<img width="1076" height="518" alt="image" src="https://github.com/user-attachments/assets/ae452557-a833-4a03-9a3b-7b45244cc89d" />
+<img width="979" height="549" alt="image" src="https://github.com/user-attachments/assets/389749d5-1a1b-4233-bddb-03e778f62fe1" />
+<img width="973" height="519" alt="image" src="https://github.com/user-attachments/assets/35e36d9e-6ceb-4699-9f1f-5f220c536127" />
+
 
 🧰 Technologies & Libraries
 
