@@ -43,7 +43,7 @@ This project overcomes that limitation by combining both modalities, allowing th
 - **Architecture:** CNN Based Attention Model
 - **Features:** MFCCs, chroma, spectral contrast, zero-crossing rate, and pitch  
 - **Frameworks:** Librosa, PyTorch  
-- **Accuracy:** ~95%  
+- **Accuracy:** ~96.2%  
 - **Output:** Probability distribution across emotion labels  
 
 ### 2️⃣ **Text Model (Text Emotion Recognition)**
