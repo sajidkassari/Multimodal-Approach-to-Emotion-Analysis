@@ -66,7 +66,7 @@ This project overcomes that limitation by combining both modalities, allowing th
 ## 📊 Results Summary
 | Model Type | Architecture | Accuracy | Key Feature |
 |-------------|---------------|-----------|--------------|
-| Audio Model | CNN | **95%** | Captures tone, intensity, rhythm |
+| Audio Model | CNN | **96.2%** | Captures tone, intensity, rhythm |
 | Text Model  | DistilBERT (Fine-tuned) | **92%** | Understands context and sentiment |
 | Fusion Model | Weighted Late Fusion | **94–96%** | Combines best of both worlds |
 
